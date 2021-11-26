@@ -1,0 +1,4 @@
+[ { "id": 1, "name": "John", "salary": 1200,"img":"img/person.png"}, 
+    { "id": 2, "name": "Jane", "salary": 4500 ,"img":"img/person.png"},
+     { "id": 3, "name": "Adam", "salary": 3100,"img":"img/person.png"}, 
+     {"id": 4, "name": "Smith", "salary": 4200 ,"img":"img/person.png"} ]
